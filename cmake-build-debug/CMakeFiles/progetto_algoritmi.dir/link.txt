@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/progetto_algoritmi.dir/main.cpp.o CMakeFiles/progetto_algoritmi.dir/FileHandlingClass.cpp.o CMakeFiles/progetto_algoritmi.dir/UtenteGenerico.cpp.o  -o progetto_algoritmi 

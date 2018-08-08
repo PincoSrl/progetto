@@ -1,0 +1,13 @@
+conoscente
+madre
+padre
+figlio
+figlia
+nipote
+nonno
+nonna
+zio
+zia
+cugino
+cugina
+

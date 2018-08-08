@@ -1,0 +1,10 @@
+1a,US,{Nome:ario,Cognome: ross della rovere,Sesso:M,Data_Di_Nascita:2/06/1997}
+1p,US,{Nome:mario,Cognome:ross,Sesso:F,Data_Di_Nascita:11/06/1997}
+1c,US,{Nome:amamam,Cognome:cascsa,Sesso:F,Data_Di_Nascita:10/06/1997}
+1c,US,{Nome:amamam lac,Cognome:cascsa,Sesso:M,Data_Di_Nascita:10/06/1997}
+1c,US,{Nome:amamam,Cognome:cascpsa,Sesso:M,Data_Di_Nascita:10/06/1997}
+1w,US,{Nome:amamam,Cognome:vongola,Sesso:F,Data_Di_Nascita:10/06/1997}
+1d,US,{Nome:amamam,Cognome:brazorv,Sesso:F,Data_Di_Nascita:10/05/1997}
+1e,UG,{Nome_Gruppo:acdsvds12,Sede_Legale:Torino Sud,Tipo_Attività:spaccio droghe sintetiche,Utenti:1y,1p,1u}
+1y,UA,{Nome_Azienda:SPA,Sede_Fiscale:Olanda,Sede_Operativa:Lussemburgsotto,Tipo_Prodotto:pasticche per la lavastoviglie,Data_Di_Nascita:14/11/705,Relazioni:1a,1b,1e,1w}
+1e,UG,{Nome_Gruppo:acdsvds12,Sede_Legale:Torino Sud,Tipo_Attività:spaccio droghe sintetiche,Utenti:1o,1n,1d,6u,9o}

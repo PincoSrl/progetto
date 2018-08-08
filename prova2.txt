@@ -1,0 +1,5 @@
+1t,1b,padre
+1f,e2,figlio
+1c,1t,nonna
+1r,1t,nonno
+1d,1i,figlio

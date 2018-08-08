@@ -1,0 +1,3 @@
+$HOME/Scrivania/progetto_algoritmi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+$HOME/Scrivania/progetto_algoritmi/cmake-build-debug/CMakeFiles/edit_cache.dir
+$HOME/Scrivania/progetto_algoritmi/cmake-build-debug/CMakeFiles/progetto_algoritmi.dir

@@ -1,0 +1,5 @@
+1a,"Viva salvini",Like:{i1,i2,i3},Dislike:{id1,id2,id3}
+1t,"vekakasda",Like:{f2,3c,5o},Dislike:{id1,6c,id3}
+1y,"vdsbsfdbfs",Like:{i6,8u,9r},Dislike:{id1,id5,id3}
+1u,"vdsfdsgfsr",Like:{i7,i4,i3},Dislike:{i6,id4,id3}
+1w,"ivfsdbfvad",Like:{i1,i2,i3},Dislike:{id1,id2,id3}
